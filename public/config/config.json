@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFB2636fD405cAF9A7DB6b9e74b6338f920fC45B8",
+  "SCAN_LINK": "https://polygonscan.com/token/0xFB2636fD405cAF9A7DB6b9e74b6338f920fC45B8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kool Katz",
+  "SYMBOL": "KKatz",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kool-katz-v2",
+  "SHOW_BACKGROUND": true
+}
