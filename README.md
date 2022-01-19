@@ -1,6 +1,6 @@
 # Welcome to Kool Katz NFT 💎
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+![](https://github.com/nirmaljosephukken/Kool-Katz-NFT/blob/main/public/config/images/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
@@ -19,7 +19,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/The-Stripes-NFT/nft-minting-app.git
+git clone https://github.com/nirmaljosephukken/Kool-Katz-NFT.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
